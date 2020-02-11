@@ -1,7 +1,7 @@
-## 项目描述
-根据特定格式的Excel模版，通过填充数据生成实际的Excel文件。
-实际文件中的单元格样式，完全从模版文件中复制过来。
-省去了代码定义单元格样式的过程，简化了开发和维护。
+## project description
+Generate an actual Excel file by filling in data according to a specific format Excel template.
+The cell style in the actual file is completely copied from the template file.
+Eliminating the need for code to define cell styles simplifies development and maintenance.
 
 ## 安装
 ```javascript
